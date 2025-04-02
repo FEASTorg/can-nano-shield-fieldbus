@@ -189,7 +189,8 @@
       ],
       "track_widths": [
         0.0,
-        0.4
+        0.4,
+        0.75
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -466,8 +467,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "kml-custom"
+    ],
+    "pinned_symbol_libs": [
+      "kml-custom"
+    ]
   },
   "meta": {
     "filename": "can-nano-shield.kicad_pro",
