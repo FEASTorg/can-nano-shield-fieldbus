@@ -1,4 +1,4 @@
-25587436674503326
+25594418495646213
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102480,6 +102480,13 @@ Connector
 2
 2
 kml-custom
+25015504-RJ45
+2501550-4-1
+Connector
+0
+14
+14
+kml-custom
 Atlas_OEM
 
 
@@ -102549,6 +102556,13 @@ CONN_1217861-1_TEC
 0
 2
 2
+kml-custom
+CONV_TLVM23615RDNR
+
+
+0
+30
+30
 kml-custom
 CP_16_19_ADI
 
@@ -102675,6 +102689,20 @@ Integrated Circuit
 0
 32
 32
+kml-custom
+RDN0011A-MFG
+
+TPSM33625RDNR 
+0
+23
+23
+kml-custom
+RDN0011A-MFG_Fixed
+
+TPSM33625RDNR 
+0
+23
+23
 kml-custom
 RS_20_ADI
 
