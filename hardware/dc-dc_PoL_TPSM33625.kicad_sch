@@ -1326,7 +1326,7 @@
 			(uuid "cc78e55b-28b1-423d-8485-38f737c1c09e")
 		)
 		(instances
-			(project "can-nano-shield-rj45"
+			(project "can-nano-shield-fieldbus"
 				(path "/46c2df7c-9d7b-4675-b12c-495dff149b51/c8f92d13-f360-4a4c-be1d-84c9e82b5d4e"
 					(reference "C6")
 					(unit 1)
@@ -1423,7 +1423,7 @@
 			(uuid "865919bb-9322-4481-8811-e15489c1fa2a")
 		)
 		(instances
-			(project "can-nano-shield-rj45"
+			(project "can-nano-shield-fieldbus"
 				(path "/46c2df7c-9d7b-4675-b12c-495dff149b51/c8f92d13-f360-4a4c-be1d-84c9e82b5d4e"
 					(reference "U3")
 					(unit 1)
@@ -1493,7 +1493,7 @@
 			(uuid "26140245-8f58-40f2-971a-27cd7ac4e08d")
 		)
 		(instances
-			(project "can-nano-shield-rj45"
+			(project "can-nano-shield-fieldbus"
 				(path "/46c2df7c-9d7b-4675-b12c-495dff149b51/c8f92d13-f360-4a4c-be1d-84c9e82b5d4e"
 					(reference "R6")
 					(unit 1)
@@ -1563,7 +1563,7 @@
 			(uuid "2a37e70f-4963-4e02-9689-11febc8dd83b")
 		)
 		(instances
-			(project "can-nano-shield-rj45"
+			(project "can-nano-shield-fieldbus"
 				(path "/46c2df7c-9d7b-4675-b12c-495dff149b51/c8f92d13-f360-4a4c-be1d-84c9e82b5d4e"
 					(reference "R5")
 					(unit 1)
@@ -1633,7 +1633,7 @@
 			(uuid "e8882e4b-4019-447b-8671-b8755a6794c9")
 		)
 		(instances
-			(project "can-nano-shield-rj45"
+			(project "can-nano-shield-fieldbus"
 				(path "/46c2df7c-9d7b-4675-b12c-495dff149b51/c8f92d13-f360-4a4c-be1d-84c9e82b5d4e"
 					(reference "C10")
 					(unit 1)
@@ -1703,7 +1703,7 @@
 			(uuid "497b6ec4-1700-4654-ab23-fc07ae413d73")
 		)
 		(instances
-			(project "can-nano-shield-rj45"
+			(project "can-nano-shield-fieldbus"
 				(path "/46c2df7c-9d7b-4675-b12c-495dff149b51/c8f92d13-f360-4a4c-be1d-84c9e82b5d4e"
 					(reference "C9")
 					(unit 1)
@@ -1773,7 +1773,7 @@
 			(uuid "44affc5f-737c-472d-a1af-571b3bb9d01b")
 		)
 		(instances
-			(project "can-nano-shield-rj45"
+			(project "can-nano-shield-fieldbus"
 				(path "/46c2df7c-9d7b-4675-b12c-495dff149b51/c8f92d13-f360-4a4c-be1d-84c9e82b5d4e"
 					(reference "C8")
 					(unit 1)
@@ -1843,7 +1843,7 @@
 			(uuid "c2c473c5-3649-44a9-8ba6-6f730f60ee41")
 		)
 		(instances
-			(project "can-nano-shield-rj45"
+			(project "can-nano-shield-fieldbus"
 				(path "/46c2df7c-9d7b-4675-b12c-495dff149b51/c8f92d13-f360-4a4c-be1d-84c9e82b5d4e"
 					(reference "C11")
 					(unit 1)
@@ -1913,7 +1913,7 @@
 			(uuid "aa2a93a5-42cf-42f6-bf84-e46b222d51cf")
 		)
 		(instances
-			(project "can-nano-shield-rj45"
+			(project "can-nano-shield-fieldbus"
 				(path "/46c2df7c-9d7b-4675-b12c-495dff149b51/c8f92d13-f360-4a4c-be1d-84c9e82b5d4e"
 					(reference "C7")
 					(unit 1)
