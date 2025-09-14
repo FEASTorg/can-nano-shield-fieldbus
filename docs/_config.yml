@@ -1,0 +1,42 @@
+title: CAN Nano Shield Fieldbus
+description: >
+  A FEASTorg project page for the can-nano-shield fieldbus variant.
+baseurl: "/can-nano-shield-fieldbus"
+url: "https://feastorg.github.io"
+
+remote_theme: pmarsceill/just-the-docs
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Site/permalink settings useful for GitHub Pages docs
+permalink: /:path/
+
+# Don't publish these
+exclude:
+  - TODO.md
+  - kibot/index_template.md
+  - kibot/config.kibot.site.yml
+  - README.md
+
+# automatically apply layout: page to all docs/*.md
+defaults:
+  - scope:
+      path: "" # everything under docs/
+      type: "pages"
+    values:
+      layout: "page"
+
+# Just the Docs theme settings
+just_the_docs:
+  logo:
+    alt: "CAN Nano Shield Fieldbus"
+  show_nav_level: 2
+  collections:
+    enable: false

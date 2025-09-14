@@ -8410,6 +8410,16 @@
 		)
 		(uuid "97460efe-93b3-4084-88f7-324853090ca9")
 	)
+	(label "~{RST1}"
+		(at 123.19 180.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "988d5b60-1b60-4882-bbcb-fc162783a396")
+	)
 	(label "SILENT"
 		(at 99.06 72.39 0)
 		(effects
@@ -8729,16 +8739,6 @@
 			(justify left bottom)
 		)
 		(uuid "ea2d00fe-4d19-4b26-8b6a-d849868d5fbc")
-	)
-	(label "RST1"
-		(at 123.19 180.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ea661304-1ac0-42d0-b975-8c73c3dc3e6c")
 	)
 	(label "A7"
 		(at 43.18 163.83 180)
