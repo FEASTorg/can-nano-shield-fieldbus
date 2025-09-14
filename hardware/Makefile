@@ -20,7 +20,7 @@ sch_fab:
 pcb_fab:
 	$(KIBOT) $(EXTRA_OPS) -e $(PRJ_SCH) -b $(PRJ_PCB) -d $(OUT_DIR) \
 		print_pcb gerbers excellon_drill gerber_drills position \
-		board_top_png board_in1_png board_in2_png board_bottom_png
+		board_top_png board_bottom_png
 
 erc_and_fab:
 	$(KIBOT) $(EXTRA_OPS) -e $(PRJ_SCH) -b $(PRJ_PCB) -d $(OUT_DIR) \

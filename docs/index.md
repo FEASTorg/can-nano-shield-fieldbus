@@ -14,17 +14,6 @@ Welcome to the CAN Nano Shield Fieldbus project documentation.
 </figure>
 
 <figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src="{{ '/assets/boards/board_in1.png' | relative_url }}" alt="Board Top" width="300">
-  <figcaption>Top</figcaption>
-</figure>
-
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src="{{ '/assets/boards/board_in2.png' | relative_url }}" alt="Board Bottom" width="300">
-  <figcaption>Bottom</figcaption>
-</figure>
-
-
-<figure style="display:inline-block; text-align:center; margin:10px;">
   <img src="{{ '/assets/boards/board_bottom.png' | relative_url }}" alt="Board Bottom" width="300">
   <figcaption>Bottom</figcaption>
 </figure>

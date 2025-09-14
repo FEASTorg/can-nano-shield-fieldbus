@@ -7,6 +7,4 @@ artifacts:
   - BoM/*.html
 images:
   - board_top.png
-  - board_in1.png
-  - board_in2.png
   - board_bottom.png
